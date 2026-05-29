@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=0d1117&height=220&section=header&text=Pedro%20Villas%20Boas&fontSize=65&fontColor=007ACC&animation=twinkling" width="100%" alt="Banner Pedro">
+  <img src="https://capsule-render.vercel.app/type=wave&color=0d1117&height=220&section=header&text=Pedro%20Villas%20Boas&fontSize=65&fontColor=007ACC&animation=twinkling" width="100%" alt="Banner Pedro" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🌐 SOBRE MIM
 
-Estudante de **Ciência da Computação** e **Full-Stack / Creative Developer**. Minha paixão é unir engenharia de software robusta com designs altamente sofisticados e interativos. Atuo desenvolvendo ecossistemas de alta performance na **VB Snooker** e arquitetando experiências digitais premium na **Vlyz**.
+Sou estudante de **Ciência da Computação** e **Full-Stack / Creative Developer**. Minha paixão é unir engenharia de software robusta com designs altamente sofisticados e interativos. Atuo desenvolvendo ecossistemas de alta performance na **VB Snooker** e arquitetando experiências digitais premium na **Vlyz**.
 
 - ⚡ **Foco Principal:** Interfaces fluidas, microinterações e animações orientadas à performance.
 - 🛡️ **Conhecimentos Paralelos:** Automação de processos industriais/comerciais, scripts inteligentes e conceitos de segurança web.
@@ -28,8 +28,8 @@ Estudante de **Ciência da Computação** e **Full-Stack / Creative Developer**.
       <p>Engenharia de infraestrutura digital e e-commerce ativo. Desenvolvimento de sistemas de gerenciamento internos, sincronização de inventário em tempo real utilizando <b>Supabase</b> e <b>Prisma</b>, e otimização de fluxo comercial através de análise de dados.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏢 <a href="https://vlyz.com.br">Vlyz</a></h4>
-      <p>Desenvolvimento e deploy de plataformas e landing pages de altíssima conversão para marcas modernas. Foco em arquiteturas escaláveis com <b>Next.js</b> e experiências imersivas utilizando engines como <b>Framer Motion</b> e <b>Lenis Scroll</b>.</p>
+      <h4>🏢 <a href="https://vlyz.com.br">Vlyz Studio</a></h4>
+      <p>Desenvolvimento e deploy de platforms e landing pages de altíssima conversão para marcas modernas. Foco em arquiteturas escaláveis com <b>Next.js</b> e experiências imersivas utilizando engines como <b>Framer Motion</b> e <b>Lenis Scroll</b>.</p>
     </td>
   </tr>
 </table>
@@ -59,8 +59,8 @@ Estudante de **Ciência da Computação** e **Full-Stack / Creative Developer**.
 ### 📊 DINÂMICA DE DESENVOLVIMENTO
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9" alt="Estatísticas Gerais" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpedrow&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007ACC&text_color=c9d1d9" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpedrow&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007ACC&text_color=c9d1d9" alt="Linguagens Mais Utilizadas" />
 </p>
 
 <p align="center">
