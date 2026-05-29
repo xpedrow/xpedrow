@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=0d1117&height=220&section=header&text=Pedro%20Villas%20Boas&fontSize=65&fontColor=007ACC&animation=twinkling" width="100%" alt="Banner Pedro" />
-</p>
+<br />
+<div align="center">
+  <h1>Pedro Villas Boas</h1>
+  <p><b>Computer Science Student & Full-Stack / Creative Developer</b></p>
+  <p>Sorocaba, SP, Brasil</p>
+</div>
 
 <p align="center">
   <a href="https://xpedrow.vercel.app"><img src="https://img.shields.io/badge/PORTFÓLIO-PREMIUM-007ACC?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -12,31 +15,33 @@
 
 ### 🌐 SOBRE MIM
 
-Sou estudante de **Ciência da Computação** e **Full-Stack / Creative Developer**. Minha paixão é unir engenharia de software robusta com designs altamente sofisticados e interativos. Atuo desenvolvendo ecossistemas de alta performance na **VB Snooker** e arquitetando experiências digitais premium na **Vlyz**.
+Sou estudante de **Science da Computação** focado na intersecção entre engenharia de software robusta e designs altamente sofisticados e interativos. Minha abordagem combina o desenvolvimento de ecossistemas digitais de alta performance para o mercado corporativo com a criação de interfaces modernas, fluidas e focadas na experiência do usuário.
 
-- ⚡ **Foco Principal:** Interfaces fluidas, microinterações e animações orientadas à performance.
-- 🛡️ **Conhecimentos Paralelos:** Automação de processos industriais/comerciais, scripts inteligentes e conceitos de segurança web.
+- ⚡ **Foco Principal:** Desenvolvimento Full-Stack, Next.js, arquitetura de sistemas e microinterações de alto padrão.
+- 🛡️ **Engenharia de Soluções:** Criação de ferramentas internas complexas, automação de dados operacionais e conceitos de segurança da informação.
 
 ---
 
-### 🚀 ECOSSISTEMA ATUAL
+### 🚀 PROJETOS EM DESTAQUE (ECOSSISTEMA ATUAL)
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🎱 <a href="https://www.vbsnooker.com/">VB Snooker</a></h4>
-      <p>Engenharia de infraestrutura digital e e-commerce ativo. Desenvolvimento de sistemas de gerenciamento internos, sincronização de inventário em tempo real utilizando <b>Supabase</b> e <b>Prisma</b>, e otimização de fluxo comercial através de análise de dados.</p>
+      <p><b>Engenharia de Infraestrutura Corporativa & E-commerce</b></p>
+      <p>Responsável direto pela arquitetura e manutenção de todo o ecossistema digital da empresa. Desenvolvi e implementei sistemas internos críticos para automação de processos comerciais e fluxo de pedidos. Responsável pela modelagem e sincronização de dados transacionais em tempo real utilizando <b>MySQL</b> e <b>Prisma ORM</b>, eliminando gargalos operacionais e otimizando a logística de estoque em múltiplos marketplaces a partir de análises baseadas em dados.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏢 <a href="https://vlyz.com.br">Vlyz Studio</a></h4>
-      <p>Desenvolvimento e deploy de platforms e landing pages de altíssima conversão para marcas modernas. Foco em arquiteturas escaláveis com <b>Next.js</b> e experiências imersivas utilizando engines como <b>Framer Motion</b> e <b>Lenis Scroll</b>.</p>
+      <h4>🏢 <a href="https://vlyz.com.br">Vlyz</a></h4>
+      <p><b>Desenvolvimento de Produtos Digitais & Interfaces Premium</b></p>
+      <p>Idealização e desenvolvimento de plataformas web personalizadas e landing pages de altíssima conversão para marcas modernas. Foco absoluto em performance extrema, SEO técnico e arquitetura escalável utilizando <b>Next.js</b> e <b>TypeScript</b>. Elevação das métricas de engajamento através do design criativo e imersivo, aplicando engines avançadas de animação e renderização fluida como <b>Framer Motion</b> e <b>Lenis Scroll</b>.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ STACK & TOOLBOX
+### 🛠️ STACK & TOOLBOX TECNOLÓGICO
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -45,8 +50,8 @@ Sou estudante de **Ciência da Computação** e **Full-Stack / Creative Develope
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -56,19 +61,6 @@ Sou estudante de **Ciência da Computação** e **Full-Stack / Creative Develope
 
 ---
 
-### 📊 DINÂMICA DE DESENVOLVIMENTO
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpedrow&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007ACC&text_color=c9d1d9" alt="Linguagens Mais Utilizadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xpedrow&theme=dark&hide_border=true&background=0d1117&ring=007ACC&fire=007ACC&title=007ACC&stroke=007ACC" width="100%" alt="Streak de Commits" />
-</p>
-
----
-
-<p align="center">
-  <sub>Construído com código limpo e foco em alta performance. © 2026 Pedro Villas Boas.</sub>
+  <sub>Construído com foco em engenharia, performance e design. © 2026 Pedro Villas Boas.</sub>
 </p>
