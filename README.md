@@ -1,48 +1,74 @@
-# Olá, eu sou o Pedro Villas Boas 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=for-the-badge&logoColor=white&color=007ACC" alt="Status">
-  <img src="https://img.shields.io/badge/Curso-Ciência%20da%20Computação-blue?style=for-the-badge&color=111" alt="Curso">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=wave&color=0d1117&height=220&section=header&text=Pedro%20Villas%20Boas&fontSize=65&fontColor=007ACC&animation=twinkling" width="100%" alt="Banner Pedro">
 </p>
 
-Sou estudante de **Ciência da Computação** e um **Desenvolvedor Full-Stack / Creative Developer** focado em construir ecossistemas digitais robustos, interfaces fluidas de alta performance e soluções inteligentes de automação e segurança. 
-
-Atuo no desenvolvimento de produtos digitais com a [Vlyz](https://vlyz.com.br) e lidero a infraestrutura tecnológica e automação de processos na VB Snooker.
-
----
-
-### 🧠 No que estou trabalhando atualmente?
-
-* 🎱 **[VB Snooker](https://www.vbsnooker.com/)**: Engenharia e manutenção de todo o ecossistema digital da empresa. Isso inclui o desenvolvimento de catálogos comerciais responsivos, integração de dados em tempo real com bancos de dados (Supabase/Prisma/PostgreSQL) e automação de fluxos de faturamento para otimizar operações em múltiplos marketplaces.
-* 🚀 **[Vlyz](https://vlyz.com.br)**: Arquitetura e deploy de landing pages de alta conversão, focando em performance extrema e microinterações modernas (Framer Motion / Lenis Scroll).
-* 🎯 **Automação de Processos**: Desenvolvimento de scripts personalizados e ferramentas internas robustas para eliminar gargalos logísticos e operacionais utilizando análise de dados.
-
----
-
-### 🛠️ Toolbox Tecnológico
-
-| Categoria | Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Frontend Avançado** | Next.js, React, TypeScript, JavaScript, TailwindCSS, Framer Motion, Lenis Scroll |
-| **Backend & Bancos** | Node.js, Express, SQL, PostgreSQL, Supabase, Prisma ORM, REST APIs |
-| **Scripts & Automação** | Python, Lua, Shell Scripting (Bash / PowerShell) |
-| **DevOps & Ferramentas** | Git, GitHub, Docker, Vercel, Linux |
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9" alt="Pedro's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpedrow&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007ACC&text_color=c9d1d9" alt="Top Languages" />
+<p align="center">
+  <a href="https://xpedrow.vercel.app"><img src="https://img.shields.io/badge/PORTFÓLIO-PREMIUM-007ACC?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pedro-villas-boas-09761a25a"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vlyz.com.br"><img src="https://img.shields.io/badge/STUDIO-VLYZ-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 🌐 SOBRE MIM
 
-* 🌐 **Portfolio:** [xpedrow.vercel.app](https://xpedrow.vercel.app)
-* 💼 **LinkedIn:** [linkedin.com/in/pedro-villas-boas](https://linkedin.com/in/pedro-villas-boas-09761a25a)
-* 📧 **E-mail:** [xxxpedrow@gmail.com](mailto:xxxpedrow@gmail.com)
+Estudante de **Ciência da Computação** e **Full-Stack / Creative Developer**. Minha paixão é unir engenharia de software robusta com designs altamente sofisticados e interativos. Atuo desenvolvendo ecossistemas de alta performance na **VB Snooker** e arquitetando experiências digitais premium na **Vlyz**.
 
-<br />
+- ⚡ **Foco Principal:** Interfaces fluidas, microinterações e animações orientadas à performance.
+- 🛡️ **Conhecimentos Paralelos:** Automação de processos industriais/comerciais, scripts inteligentes e conceitos de segurança web.
+
+---
+
+### 🚀 ECOSSISTEMA ATUAL
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎱 <a href="https://www.vbsnooker.com/">VB Snooker</a></h4>
+      <p>Engenharia de infraestrutura digital e e-commerce ativo. Desenvolvimento de sistemas de gerenciamento internos, sincronização de inventário em tempo real utilizando <b>Supabase</b> e <b>Prisma</b>, e otimização de fluxo comercial através de análise de dados.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 <a href="https://vlyz.com.br">Vlyz</a></h4>
+      <p>Desenvolvimento e deploy de plataformas e landing pages de altíssima conversão para marcas modernas. Foco em arquiteturas escaláveis com <b>Next.js</b> e experiências imersivas utilizando engines como <b>Framer Motion</b> e <b>Lenis Scroll</b>.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ STACK & TOOLBOX
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 DINÂMICA DE DESENVOLVIMENTO
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9" alt="Estatísticas Gerais" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpedrow&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007ACC&text_color=c9d1d9" alt="Linguagens Mais Utilizadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xpedrow&theme=dark&hide_border=true&background=0d1117&ring=007ACC&fire=007ACC&title=007ACC&stroke=007ACC" width="100%" alt="Streak de Commits" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Construído com código limpo e foco em alta performance. © 2026 Pedro Villas Boas.</sub>
+</p>
