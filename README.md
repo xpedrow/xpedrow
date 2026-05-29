@@ -15,7 +15,7 @@
 
 ### 🌐 SOBRE MIM
 
-Sou estudante de **Science da Computação** focado na intersecção entre engenharia de software robusta e designs altamente sofisticados e interativos. Minha abordagem combina o desenvolvimento de ecossistemas digitais de alta performance para o mercado corporativo com a criação de interfaces modernas, fluidas e focadas na experiência do usuário.
+Sou estudante de **Ciência da Computação** focado na intersecção entre engenharia de software robusta e designs altamente sofisticados e interativos. Minha abordagem combina o desenvolvimento de ecossistemas digitais de alta performance para o mercado corporativo com a criação de interfaces modernas, fluidas e focadas na experiência do usuário.
 
 - ⚡ **Foco Principal:** Desenvolvimento Full-Stack, Next.js, arquitetura de sistemas e microinterações de alto padrão.
 - 🛡️ **Engenharia de Soluções:** Criação de ferramentas internas complexas, automação de dados operacionais e conceitos de segurança da informação.
