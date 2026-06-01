@@ -6,7 +6,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="pedrow's GitHub Stats" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="pedrow's GitHub Stats" height="180px"/>
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=xpedrow&theme=tokyonight&hide_border=true" alt="Pedro's Streak Stats" height="180px" />
