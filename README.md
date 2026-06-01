@@ -19,7 +19,7 @@
 
 | Core & Frontend | Backend & Databases | Tools & Frameworks |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,bots,prisma,postgres,supabase,docker,fastapi,flask,npm,sqlite,py" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /> |
 
 <br />
 
