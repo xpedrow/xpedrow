@@ -5,9 +5,8 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <!-- Substitua "SEU_USUARIO_GITHUB" pelo seu username real do GitHub -->
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pedro's GitHub Stats" height="180px" />
+      <td width="50%" align="center"
+        <img src="https://github-readme-stats.vercel.app/api?username=xpedrow&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="pedrow's GitHub Stats" height="180px" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="Pedro's Streak Stats" height="180px" />
