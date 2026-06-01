@@ -32,7 +32,3 @@
 * **[Vlyz](https://www.vlyz.com.br)**: Soluções modernas de desenvolvimento web e interfaces de alta performance focadas em experiência digital.
 
 ---
-
-<div align="center">
-  <sub>Praticando musculação 🏋️‍♂️, boxe 🥊 e sempre evoluindo no código.</sub>
-</div>
